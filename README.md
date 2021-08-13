@@ -1,4 +1,4 @@
-# myamplifyproject
+# AWS Amplify Project
 
 ## Project setup
 ```
